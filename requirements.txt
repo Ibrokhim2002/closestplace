@@ -1,0 +1,6 @@
+aiogram==2.25.1
+docx==0.2.4
+googlemaps==4.10.0
+telethon==1.28.5
+python-docx==0.8.11
+mysql-connector-python==8.0.33

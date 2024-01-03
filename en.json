@@ -1,0 +1,86 @@
+[
+  {
+    "en0": {
+      "welcome_message": "Welcome to our bot!\nThis bot can help you find the closest location you need.\n\nPlease let me know what type of place you want to find.\nChoose below the needed location or you can type it yourself.\n\n",
+      "location_query_prompt": "Send me your location:",
+      "no_places_found": "Sorry, no places were found near your location. Please try a different query or location.",
+      "no_more_places_available": "No more places available.",
+      "user_data_exported": "User data exported successfully.",
+      "place_info": "The closest place: {name}\nLocation: {vicinity}\nFrom your location: {distance:.2f} meter",
+      "no_photo_found": "No photo found for this place, but here is the location:\n\nPlace: {name}\nLocation: {vicinity}\nDistance from your location: {distance:.2f} meter",
+      "place_name_prompt": "Send me the name of the place you want to find.\nFor example, you can type 'Subway' or 'Coffee shop'.",
+      "share_location": "Please share your location",
+      "query_before": "Please enter a location query before sending your location.\nYou can type the name of a place or a specific address.",
+      "user_location": "Send Current Location📍",
+      "buttons_column1": [
+        ["Airport", "Supermarket"],
+        ["Bank", "Hospital"],
+        ["Mosque", "Restaurant"],
+        ["Bus Station", "Subway Station"],
+        ["Gas Station", "Pharmacy"],
+        ["Amusement Park", "Car Wash"],
+        ["Type Yourself"]
+      ],
+      "buttons_column2": [
+        ["🇺🇿 Uzbek", "🇷🇺 Russian", "🇬🇧 English"]
+      ],
+      "more_button": "More"
+    }
+  },
+  {
+    "uz1": {
+      "welcome_message": "Bizning botga xush kelibsiz!\nBu bot sizga kerakli eng yaqin joylarni topishda yordam berishi mumkin.\n\nIltimos, topmoqchi bo'lgan joyning turini menga bildiring.\nQuyidagi kerakli joylarni tanlang yoki o'zingiz yozishingiz mumkin.\n\n",
+      "location_query_prompt": "Joyni yuboring:",
+      "no_places_found": "Afsuski, sizning joyingiz yaqinida hech qanday joy topilmadi. Iltimos, boshqa so'rov yoki joyni urinib ko'ring.",
+      "no_more_places_available": "Qolgan joylar yo'q.",
+      "user_data_exported": "Foydalanuvchi ma'lumotlari muvaffaqiyatli eksportlandi.",
+      "place_info": "Eng yaqin joy: {name}\nManzil: {vicinity}\nSizning joyingizdan masofa: {distance:.2f} metr",
+      "no_photo_found": "Bu joy uchun rasmlar topilmadi, lekin joyning manzili shu erda:\n\nJoy: {name}\nManzil: {vicinity}\nSizning joyingizdan masofa: {distance:.2f} metr",
+      "place_name_prompt": "Izlashni istagan joyning nomini yuboring.\nMisol uchun, 'Subway' yoki 'Kofe do'kon'ni yozishingiz mumkin.",
+      "share_location": "Iltimos, joylashuvingizni yuboring:",
+      "query_before": "Joylashuvingizni yuborishdan oldin joylashuv soʻrovini kiriting.\nSiz joy nomini yoki ma'lum bir manzilni yozishingiz mumkin.",
+      "user_location": "Joriy joylashuvingizni yuboring📍",
+      "buttons_column1": [
+        ["Aeroport", "Supermarket"],
+        ["Bank", "Shifokorxona"],
+        ["Masjid", "Restoran"],
+        ["Avtobus stansiya", "Metro stansiya"],
+        ["Benzinliq stansiya", "Apteka"],
+        ["Qoʻngʻiroq parki", "Avtomoʻyka"],
+        ["O'zingiz yozing"]
+      ],
+      "buttons_column2": [
+        ["🇺🇿 Oʻzbek", "🇷🇺 Rus", "🇬🇧 Ingliz"]
+      ],
+      "more_button": "Ko'proq"
+    }
+  },
+  {
+    "ru2": {
+      "welcome_message": "Добро пожаловать в нашего бота!\nЭтот бот может помочь вам найти ближайшее нужное место.\n\nПожалуйста, укажите, какой тип места вы ищете.\nВыберите нужное место из списка или напишите самостоятельно.\n\n",
+      "location_query_prompt": "Отправьте ваше местоположение:",
+      "no_places_found": "К сожалению, рядом с вашим местоположением не найдено ни одного места. Попробуйте другой запрос или местоположение.",
+      "no_more_places_available": "Больше мест нет.",
+      "user_data_exported": "Данные пользователя успешно экспортированы.",
+      "place_info": "Ближайшее место: {name}\nМестоположение: {vicinity}\nОт вашего местоположения: {distance:.2f} метров",
+      "no_photo_found": "Для этого места фотография не найдена, но вот его местоположение:\n\nМесто: {name}\nМестоположение: {vicinity}\nРасстояние от вашего местоположения: {distance:.2f} метров",
+      "place_name_prompt": "Отправьте название места, которое вы хотите найти.\nНапример, вы можете ввести 'Subway' или 'Кофейня'.",
+      "share_location": "Пожалуйста, отправьте ваше местоположение:",
+      "query_before": "Пожалуйста, введите запрос о местоположении, прежде чем отправлять свое местоположение.\n«Вы можете ввести название места или конкретный адрес».",
+      "user_location": "Отправить текущее местоположение📍",
+      "buttons_column1": [
+        ["Аэропорт", "Супермаркет"],
+        ["Банк", "Больница"],
+        ["Мечеть", "Ресторан"],
+        ["Автобусная остановка", "Станция метро"],
+        ["АЗС", "Аптека"],
+        ["Парк аттракционов", "Автомойка"],
+        ["Ввести самостоятельно"]
+      ],
+      "buttons_column2": [
+        ["🇺🇿 Узбекский", "🇷🇺 Русский", "🇬🇧 Английский"]
+      ],
+      "more_button": "Ещё"
+    }
+  }
+]
